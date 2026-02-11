@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi! 👋
 
+Soy Ing. Biomédico, incursionando en el análisis de datos , buscando mejoras tecnologias para la automatización y mejorar operativa, impulsando la eficiencia 
+
+- Trabajo actualmente en área de ingeniería clinica médica
+- Actualmente estudiando para ser Data Analyst en bootcamp de Tripleten
+
+⚡Habilidades: Trabajo en equipo, liderazgo, rápido aprendizaje y disposión de aprender
+
+📫 Pueden contactarme via [email](d.farid.cervantes@gmail.com) o [Linkedln](www.linkedin.com/in/dorian-farid-rodriguez-cervantes-a408741bb)
 <!--
 **dorian1624/dorian1624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
